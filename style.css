@@ -1,0 +1,19 @@
+.header {
+  background-color: chartreuse;
+  color: black;
+  font-size: medium;
+  font-family: sans-serif;
+  grid: 1fr;
+  line-height: 4em;
+  justify-items: center;
+}
+
+.body {
+  background-color: darkorange;
+  color: #333;
+  font-size: medium;
+  font-family: sans-serif;
+  grid: 1fr;
+  line-height: 4em;
+  justify-items: center;
+}
